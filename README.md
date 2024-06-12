@@ -1,2 +1,2 @@
 # NumsToWords
-Program translates number to words
+Program translates numbers to words
